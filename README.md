@@ -1,16 +1,33 @@
-# tarea3_200291
+# DMI_Practica3_200291
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Alfredo Solis Sanchez 
+## 9A
+### Desarrollo de Dispositivos Inteligentes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+&nbsp;
+&nbsp;
+
+
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Tarea 4 Cambio de Pantallas |
+| Descripción  | El cambio de pantallas en Wear OS es una característica clave que permite a los usuarios personalizar su experiencia con los dispositivos WearOs.  |
+|  Fecha de Carga | 24/05/23  |
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
